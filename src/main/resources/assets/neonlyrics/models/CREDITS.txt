@@ -1,0 +1,8 @@
+﻿Auto im Lowrider-Emote (assets/neonlyrics/models/m3.bin.gz)
+
+Basiert auf "2021 BMW M3 Competition (G80)" von DisneyCars
+https://sketchfab.com/3d-models/2021-bmw-m3-competition-g80-a9027a26b7ee4da4b564d939b6c27559
+Lizenz: CC Attribution 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+Geaendert: verkleinert, Motorraum und Logo-Aufkleber entfernt, umgefaerbt, Fahrerfenster entfernt.
+Keine Verbindung zu oder Unterstuetzung durch BMW.
