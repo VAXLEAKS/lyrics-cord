@@ -8,7 +8,7 @@ Dieses Repository ist ein aus dem Release-Jar rekonstruiertes Quellprojekt (Vine
 
 Voraussetzungen:
 
-- JDK 21 oder neuer
+- JDK 25 oder neuer (Gradle/Loom 1.19.3 benötigt JVM 25; der Mod selbst wird mit `--release 21` gebaut und läuft auf Java 21)
 - Internet beim ersten Build (Gradle lädt Minecraft, Yarn und Fabric API)
 
 ```bash
@@ -35,8 +35,8 @@ Das Jar ist bereits für den Produktionseinsatz remapped (Intermediary-Namen) un
 | Yarn | 1.21.11+build.6 |
 | Fabric Loader | 0.19.3 |
 | Fabric API | 0.141.6+1.21.11 |
-| Loom | 1.19.3 |
-| Java | 21 |
+| Loom | 1.19.3 (benötigt Build-JVM 25+) |
+| Java (Bytecode) | 21 |
 
 Alle Werte stehen in `gradle.properties`.
 
